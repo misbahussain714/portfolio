@@ -4,11 +4,11 @@ body{
     font-family: $font-stack !important;
     font-size: $font-size !important;
     font-weight: $font-weight !important;
-    color: color(secondary) !important;
+    color: color(text) !important;
 }
 
 a{
-    color: color(secondary);
+    color: color(text);
     text-decoration: none !important;
 
     &:hover{
